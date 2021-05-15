@@ -1,0 +1,118 @@
+body{
+    background-image: url(flag.jpg);
+    background-size: cover;
+}
+header{
+    text-align: center;
+    height:10%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em ;
+
+}
+div{
+height:60%;
+}
+
+aside{
+    float: left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 25%;
+    padding: 10px;
+    text-align:left;
+}
+.menu{
+    padding:20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style:oblique;
+}
+.topmenu{
+    padding:20px;
+    font-size: 1.7em;
+    font-weight: bolder;
+}
+figure{
+    text-align: center;
+}
+figcaption{
+    padding: 10px;
+    font-size:1.6em;
+    background-color:rgba(255, 255, 255, 0.5);
+}
+section{
+    float: left;
+    width: 70%;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    border-left: white 3px solid;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+article{
+    background-color:rgba(255, 255, 255, 0.5);
+    padding:10px;
+}
+p{
+    text-indent: 5%;
+    font-size:1.5em;
+    font-weight: bold;
+}
+footer{
+    clear:both;
+    height: 30%;
+    padding:10px;
+    border-top:white 3px solid;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+.footlink{
+    padding:5px;
+    font-size: 1.5em;
+    }
+.red{
+    color:rgb(160, 0, 0);
+}
+.blue{
+    color:rgb(0, 0, 173);
+}
+.white{
+    color:rgb(255, 255, 255);
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: separate;
+    border-spacing:4px;
+    width: 96%;
+    margin: 0 auto;
+    color:rgb(0,0,173);
+    font-size: 1.2em;
+  }
+
+  th {
+    padding: 18px;
+  }
+
+  td {
+    padding: 12px;
+  }
+
+  th,
+  td {
+    border: solid 1px #e6e6e6;
+  }
+
+  tr {
+    background-color: #EDEDED;
+  }
+
+  tr.even {
+    background-color: #F7F7F7;
+  }
+
+  #heading {
+    background-color: #e60000;
+    color: white;
+  }
+
+  ul{
+      list-style-image: url(flag2.png);
+  }
